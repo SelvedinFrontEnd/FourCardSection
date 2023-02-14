@@ -6,7 +6,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 - Solution URL: [Solution](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub)
 
-- Live Site URL: [Site](fourcardselvedin.netlify.app)
+- Live Site URL: [fourcardselvedin.netlify.app](fourcardselvedin.netlify.app)
 
 ### Built with
 
